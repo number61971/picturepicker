@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => {
       borderRadius: '20px',
       display: 'flex',
       fontSize: 70,
-      height: 110,
+      height: 475,
       justifyContent: 'center',
       margin: theme.spacing(2),
       overflow: 'hidden',

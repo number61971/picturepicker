@@ -16,9 +16,11 @@ const useStyles = makeStyles((theme) => {
       borderRadius: '30px',
       display: 'flex',
       flexWrap: 'wrap',
+      height: 600,
       marginTop: theme.spacing(5),
       justifyContent: 'center',
       padding: theme.spacing(2),
+      width: 704,
     }
   };
 });
